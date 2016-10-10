@@ -3,3 +3,7 @@ http://data.gov.be/nl/dataset/13a4ee1d-de25-418e-a5c1-96b9d5e8e9dc
 
 Wel internet
 http://data.gov.be/nl/dataset/957cb4b0-3049-4334-b268-0a57b0dfc477
+
+Socio-economische positie vlaanderen
+http://data.gov.be/nl/dataset/d8d1212d-a3ff-4d24-bbb9-87ad2a39f1be
+
