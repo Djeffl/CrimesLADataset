@@ -1,0 +1,5 @@
+Nooit internet
+http://data.gov.be/nl/dataset/13a4ee1d-de25-418e-a5c1-96b9d5e8e9dc
+
+Wel internet
+http://data.gov.be/nl/dataset/957cb4b0-3049-4334-b268-0a57b0dfc477
