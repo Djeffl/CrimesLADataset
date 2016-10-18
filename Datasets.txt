@@ -1,18 +1,2 @@
-Nooit internet
-http://data.gov.be/nl/dataset/13a4ee1d-de25-418e-a5c1-96b9d5e8e9dc
-
-Wel internet
-http://data.gov.be/nl/dataset/957cb4b0-3049-4334-b268-0a57b0dfc477
-
-Socio-economische positie vlaanderen
-http://data.gov.be/nl/dataset/d8d1212d-a3ff-4d24-bbb9-87ad2a39f1be
-
-Spelletjes gebruik
-http://data.gov.be/nl/dataset/0860c284-3d20-4a8c-8ddb-39475459b5c7
-
-Digitale kloof: evolutie van het thuisgebruik
-http://data.gov.be/nl/dataset/ad695fbd-a9b2-454e-b340-9fef3a8b872d
-
-
-New data set
+Dataset crimes 2012-2015 LA
 https://catalog.data.gov/dataset/crimes-2012-2015
